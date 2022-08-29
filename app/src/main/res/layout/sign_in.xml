@@ -94,7 +94,8 @@
                     android:layout_marginLeft="60dp"
                     android:textSize="18dp"
                     android:textStyle="bold"
-                    android:text="Dont have an account? "></TextView>
+                    android:textColor="@color/black"
+                    android:text="Dont have an account?  "></TextView>
 
                 <TextView
                     android:layout_width="wrap_content"
